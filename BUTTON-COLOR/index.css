@@ -1,0 +1,50 @@
+
+
+        body
+        {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vw;
+        }
+        html
+        {
+            background-color: black;
+        }
+        #heading
+        {
+        position: absolute;
+        margin-top: -80px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 30px;
+        color: aliceblue;
+        }
+        #suraj
+        {
+            border-radius: 8px;
+            border-color: whitesmoke;
+            color: aliceblue;
+            background-color: red;
+            position: absolute;
+            margin-left: -300px;
+        }
+        #kumar 
+        {
+            border-radius: 8px;
+            border: 2px bold black;
+            color: aliceblue;
+            background-color: blue;
+            border-color: whitesmoke;
+
+        }
+        #jena
+        {
+            border-radius: 8px;
+            border: 2px bold black;
+            color: aliceblue;
+            background-color: green;
+            border-color: whitesmoke;
+            position: absolute;
+            margin-left: 300px;
+        }
+    
